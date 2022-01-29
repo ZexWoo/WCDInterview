@@ -14,7 +14,7 @@ BitTorrent is a system that allows users to share data with each other. Informat
 
 ## CLIENTS
 
-A **BitTorrent client** is a program that allows you to connect to the BitTorrent system. Think of BitTorrent like the internet and BitTorrent clients as internet browsers. There are multiple different internet browsers with different features, but they connect to the same internet. Click [here](/client-en.md/) for the BitTorrent clients that are on the **whitelist**, or allowed on What.CD. You will not be able to connect to peers from What.CD (and thus download data) if your BitTorrent client is not on the whitelist. If there is an “x” behind a decimal, that means that any number can be substituted for the x. For example: uTorrent 2.0.x means that uTorrent 2.0.0, 2.0.1, 2.0.2, 2.0.3, 2.0.4, etc. are all on the whitelist.
+A **BitTorrent client** is a program that allows you to connect to the BitTorrent system. Think of BitTorrent like the internet and BitTorrent clients as internet browsers. There are multiple different internet browsers with different features, but they connect to the same internet. Click [here](/WCDInterview/client-en.md/) for the BitTorrent clients that are on the **whitelist**, or allowed on What.CD. You will not be able to connect to peers from What.CD (and thus download data) if your BitTorrent client is not on the whitelist. If there is an “x” behind a decimal, that means that any number can be substituted for the x. For example: uTorrent 2.0.x means that uTorrent 2.0.0, 2.0.1, 2.0.2, 2.0.3, 2.0.4, etc. are all on the whitelist.
 
 ## RATIO
 

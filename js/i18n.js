@@ -80,12 +80,12 @@ window.onload = function(){
             window.location.pathname = pathName.replace(isZhPost, "-en/");
         };
 
-        if(ls.lang == "zh" && pathName == "/index-en/"){
-            window.location.pathname = pathName.replace("/index-en/", "/index/");
-        }else if(ls.lang == "en" && pathName == "/"){
-            window.location.pathname = pathName.replace("/", "/index-en/");
-        }else if(ls.lang == "en" && pathName == "/index/"){
-            window.location.pathname = pathName.replace("/index/", "/index-en/");
+        if(ls.lang == "zh" && pathName == "/WCDInterview/index-en/"){
+            window.location.pathname = pathName.replace("/WCDInterview/index-en/", "/WCDInterview/index/");
+        }else if(ls.lang == "en" && pathName == "/WCDInterview/"){
+            window.location.pathname = pathName.replace("/WCDInterview/", "/WCDInterview/index-en/");
+        }else if(ls.lang == "en" && pathName == "/WCDInterview/index/"){
+            window.location.pathname = pathName.replace("/WCDInterview/index/", "/WCDInterview/index-en/");
         }
     }
 
@@ -127,21 +127,21 @@ window.onload = function(){
     function switchToChinese(){
         btnChange();
 
-        navWelcome.href = "/index/";
-        navPrepare.href = "/prepare-zh/";
-        navStart.href = "/start-zh/";
-        navAfter.href = "/after-zh/";
-        navSources.href = "/sources-zh/";
-        navFormats.href = "/formats-zh/";
-        navMp3.href = "/mp3-zh/";
-        navTranscodes.href = "/transcodes-zh/";
-        navTorrenting.href = "/torrenting-zh/";
-        navSpectral.href = "/spectral-zh/";
-        navRipping.href = "/ripping-zh/";
-        navRules.href = "/rules-zh/";
-        navLog.href = "/log-zh/";
-        navCue.href = "/cue-zh/";
-        navClient.href = "/client-zh/";
+        navWelcome.href = "/WCDInterview/index/";
+        navPrepare.href = "/WCDInterview/prepare-zh/";
+        navStart.href = "/WCDInterview/start-zh/";
+        navAfter.href = "/WCDInterview/after-zh/";
+        navSources.href = "/WCDInterview/sources-zh/";
+        navFormats.href = "/WCDInterview/formats-zh/";
+        navMp3.href = "/WCDInterview/mp3-zh/";
+        navTranscodes.href = "/WCDInterview/transcodes-zh/";
+        navTorrenting.href = "/WCDInterview/torrenting-zh/";
+        navSpectral.href = "/WCDInterview/spectral-zh/";
+        navRipping.href = "/WCDInterview/ripping-zh/";
+        navRules.href = "/WCDInterview/rules-zh/";
+        navLog.href = "/WCDInterview/log-zh/";
+        navCue.href = "/WCDInterview/cue-zh/";
+        navClient.href = "/WCDInterview/client-zh/";
 
         //若位于英文页面，直接跳对应中文页
         pathNameSwitcher();
@@ -178,21 +178,21 @@ window.onload = function(){
     function switchToEnglish(){
         btnChange();
 
-        navWelcome.href = "/index-en/";
-        navPrepare.href = "/prepare-en/";
-        navStart.href = "/start-en/";
-        navAfter.href = "/after-en/";
-        navSources.href = "/sources-en/";
-        navFormats.href = "/formats-en/";
-        navMp3.href = "/mp3-en/";
-        navTranscodes.href = "/transcodes-en/";
-        navTorrenting.href = "/torrenting-en/";
-        navSpectral.href = "/spectral-en/";
-        navRipping.href = "/ripping-en/";
-        navRules.href = "/rules-en/";
-        navLog.href = "/log-en/";
-        navCue.href = "/cue-en/";
-        navClient.href = "/client-en/";
+        navWelcome.href = "/WCDInterview/index-en/";
+        navPrepare.href = "/WCDInterview/prepare-en/";
+        navStart.href = "/WCDInterview/start-en/";
+        navAfter.href = "/WCDInterview/after-en/";
+        navSources.href = "/WCDInterview/sources-en/";
+        navFormats.href = "/WCDInterview/formats-en/";
+        navMp3.href = "/WCDInterview/mp3-en/";
+        navTranscodes.href = "/WCDInterview/transcodes-en/";
+        navTorrenting.href = "/WCDInterview/torrenting-en/";
+        navSpectral.href = "/WCDInterview/spectral-en/";
+        navRipping.href = "/WCDInterview/ripping-en/";
+        navRules.href = "/WCDInterview/rules-en/";
+        navLog.href = "/WCDInterview/log-en/";
+        navCue.href = "/WCDInterview/cue-en/";
+        navClient.href = "/WCDInterview/client-en/";
 
         //若位于中文页面，直接跳对应英文页
         pathNameSwitcher();
