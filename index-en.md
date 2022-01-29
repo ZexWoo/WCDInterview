@@ -20,4 +20,6 @@ What.CD is an invite-only site. If you do not know any current members, however,
 
 *Note: If you have previously had an account on What.CD, go to #what.cd-disabled and follow the directions in the topic in order to talk to a moderator about getting your account re-enabled. **DO NOT try to interview, or your accounts will be permanently banned.***
 
+---
+
 <small>This is a backup of <a href="https://opentrackers.org/whatinterviewprep.com/index.html" target="_blank">What.CD Interview Preparation</a>.</small>

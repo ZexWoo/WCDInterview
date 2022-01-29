@@ -8,7 +8,7 @@ author: ZexWoo
 toc: true
 ---
 
-**LAME (LAME Ain't an MP3 Encoder)** 是一款编码器，它能够将任何输入的音频文件转换、压缩，输出为 MP3 文件。所得的 MP3 输出文件其比特率可以是恒定的、可变的，抑或是平均比特率。What.CD 推荐将 LAME 作为 MP3 编码器的原因是它开源、可定制，且能够输出优质的 MP3 文件。
+**[LAME](https://lame.sourceforge.io/) (LAME Ain't an MP3 Encoder)** 是一款编码器，它能够将任何输入的音频文件转换、压缩，输出为 MP3 文件。所得的 MP3 输出文件其比特率可以是恒定的、可变的，抑或是平均比特率。What.CD 推荐将 LAME 作为 MP3 编码器的原因是它开源、可定制，且能够输出优质的 MP3 文件。
 
 ## 恒定比特率（CBR）
 
