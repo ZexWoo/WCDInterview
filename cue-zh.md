@@ -1,0 +1,106 @@
+---
+layout: post
+title: "示例 Cue 文件"
+
+tags: []
+comments: false
+author: ZexWoo
+toc: false
+---
+
+```
+REM DATE 2009
+REM DISCID 700A5D0B
+REM COMMENT "ExactAudioCopy v1.3"
+PERFORMER "徐佳瑩"
+TITLE "首張創作專輯"
+REM COMPOSER ""
+FILE "01. 喔伊細.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "喔伊細"
+    PERFORMER "徐佳瑩"
+    REM COMPOSER ""
+    ISRC TWJ010900401
+    INDEX 01 00:00:00
+FILE "02. 圓舞曲.wav" WAVE
+  TRACK 02 AUDIO
+    TITLE "圓舞曲"
+    PERFORMER "徐佳瑩"
+    REM COMPOSER ""
+    ISRC TWJ010900402
+    INDEX 01 00:00:00
+  TRACK 03 AUDIO
+    TITLE "VIP"
+    PERFORMER "徐佳瑩"
+    REM COMPOSER ""
+    ISRC TWJ010900403
+    INDEX 00 04:19:30
+FILE "03. VIP.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 04 AUDIO
+    TITLE "失落沙洲"
+    PERFORMER "徐佳瑩"
+    REM COMPOSER ""
+    ISRC TWJ010900404
+    INDEX 00 03:33:31
+FILE "04. 失落沙洲.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 05 AUDIO
+    TITLE "白旗"
+    PERFORMER "徐佳瑩"
+    REM COMPOSER ""
+    ISRC TWJ010900405
+    INDEX 00 04:57:26
+FILE "05. 白旗.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 06 AUDIO
+    TITLE "身騎白馬"
+    PERFORMER "徐佳瑩"
+    REM COMPOSER ""
+    ISRC TWJ010900406
+    INDEX 00 03:27:48
+FILE "06. 身騎白馬.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 07 AUDIO
+    TITLE "一樣的月光"
+    PERFORMER "徐佳瑩"
+    REM COMPOSER ""
+    ISRC TWJ010900407
+    INDEX 00 05:11:07
+FILE "07. 一樣的月光.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 08 AUDIO
+    TITLE "明知故犯"
+    PERFORMER "徐佳瑩"
+    REM COMPOSER ""
+    ISRC TWJ010900408
+    INDEX 00 03:57:29
+FILE "08. 明知故犯.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 09 AUDIO
+    TITLE "出口"
+    PERFORMER "徐佳瑩"
+    REM COMPOSER ""
+    ISRC TWJ010900409
+    INDEX 00 04:55:65
+FILE "09. 出口.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 10 AUDIO
+    TITLE "哼情歌"
+    PERFORMER "徐佳瑩"
+    REM COMPOSER ""
+    ISRC TWJ010900410
+    INDEX 00 03:04:36
+FILE "10. 哼情歌.wav" WAVE
+    INDEX 01 00:00:00
+  TRACK 11 AUDIO
+    TITLE "沒鎖門"
+    PERFORMER "徐佳瑩"
+    REM COMPOSER ""
+    ISRC TWJ010900411
+    INDEX 00 03:37:24
+FILE "11. 沒鎖門.wav" WAVE
+    INDEX 01 00:00:00
+```
+
+更多关于 Cue 的知识请见 [EAC 与 Cue 文件](https://zexwoo.github.io/eac_and_cue_files/)。

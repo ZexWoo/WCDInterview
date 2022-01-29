@@ -1,0 +1,60 @@
+<div class="wrapper-sidebar">
+  <header class="sidebar clearfix">
+    <div id="i18nSwitcher"><a id="i18nCn" href="javascript:;">中</a> / <a id="i18nEn" href="javascript:;">EN</a></div>
+    <div class="site-info">
+      {% if site.avatar %}
+        <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+      {% endif %} 
+      <h1 class="site-name"><a href="{{ site.baseurl }}/"><span class="keys">{{ site.name }}</span></a></h1>
+      <p class="site-description"><span class="keys">{{ site.description }}</span></p>
+      <div class="navlist">
+        <nav>
+          <h3><span class="keys">面试流程</span></h3>
+          <a href="/index"><span class="keys">欢迎参加</span></a>
+
+          <a href="/prepare-zh"><span class="keys">准备面试</span></a>
+
+          <a href="/start-zh/"><span class="keys">开始面试</span></a>
+
+          <a href="/after-zh"><span class="keys">面试之后</span></a>
+
+          <h3><span class="keys">所需知识</span></h3>
+
+          <a href="/sources-zh"><span class="keys">模拟源与数字源</span></a>
+
+          <a href="/formats-zh"><span class="keys">音频格式</span></a>
+
+          <a href="/mp3-zh"><span class="keys">MP3</span></a>
+
+          <a href="/transcodes-zh"><span class="keys">转码</span></a>
+
+          <a href="/torrenting-zh"><span class="keys">种子相关</span></a>
+
+          <a href="/spectral-zh"><span class="keys">频谱分析</span></a>
+
+          <a href="/ripping-zh"><span class="keys">CD 抓轨与刻录</span></a>
+
+          <a href="/rules-zh"><span class="keys">What.CD 规则</span></a>
+
+          <h3><span class="keys">其他资料</span></h3>
+
+          <a href="/log-zh"><span class="keys">示例 Log 文件</span></a>
+
+          <a href="/cue-zh"><span class="keys">示例 Cue 文件</span></a>
+
+          <a href="/client-zh"><span class="keys">BitTorrent 客户端白名单</span></a>
+
+          <h3><span class="keys">在推特上关注我们！</span></h3>
+
+          <p><span class="keys">在推特上关注 <a href="https://twitter.com/whatcd">@whatcd</a></span></p>
+        </nav>
+      </div>
+    </div>
+  </header>
+
+  <div class="wrapper-footer-desktop">
+    <footer class="footer">
+      {% include footer.html %}
+    </footer>
+  </div>
+</div>
