@@ -77,11 +77,11 @@ window.onload = function(){
         };
 
         if(ls.lang == "zh" && pathName == "/WCDInterview/index-en/"){
-            window.location.pathname = pathName.replace("/WCDInterview/index-en/", "/WCDInterview/index/");
+            window.location.pathname = pathName.replace("/WCDInterview/index-en/", "/WCDInterview/index");
         }else if(ls.lang == "en" && pathName == "/WCDInterview/"){
             window.location.pathname = pathName.replace("/WCDInterview/", "/WCDInterview/index-en/");
-        }else if(ls.lang == "en" && pathName == "/WCDInterview/index/"){
-            window.location.pathname = pathName.replace("/WCDInterview/index/", "/WCDInterview/index-en/");
+        }else if(ls.lang == "en" && pathName == "/WCDInterview/index"){
+            window.location.pathname = pathName.replace("/WCDInterview/index", "/WCDInterview/index-en/");
         }
     }
 
@@ -123,7 +123,7 @@ window.onload = function(){
     function switchToChinese(){
         btnChange();
 
-        navWelcome.href = "/WCDInterview/index/";
+        navWelcome.href = "/WCDInterview/index";
         navPrepare.href = "/WCDInterview/prepare-zh/";
         navStart.href = "/WCDInterview/start-zh/";
         navAfter.href = "/WCDInterview/after-zh/";
