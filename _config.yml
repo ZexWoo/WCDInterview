@@ -62,7 +62,7 @@ footer-links:
   behance: # https://www.behance.net/<username>
   dribbble:
   zhihu: # zexwoo
-  email: zexwoo@qq.com
+  email: 
   facebook:
   flickr:
   github: zexwoo
@@ -70,13 +70,13 @@ footer-links:
   instagram:
   linkedin:
   pinterest:
-  rss: zexwoo # just type anything here for a working RSS icon
+  rss:  # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
-  telegram: DrZexWoo
-  #twitter: frommidworld
+  telegram: 
+  twitter: whatcd
   youtube:
-  bilibili: 12990325 # 个人空间 ID
+  bilibili:  # 个人空间 ID
 
 footer-friends:
   friend:
