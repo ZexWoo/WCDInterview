@@ -5,7 +5,7 @@ title: "Prepare for the Interview"
 tags: []
 comments: false
 author: ZexWoo
-toc: true
+toc: false
 ---
 
 **You are responsible for knowing all of the information on this site.**

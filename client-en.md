@@ -5,7 +5,7 @@ title: "BitTorrent Client Whitelist"
 tags: []
 comments: false
 author: ZexWoo
-toc: true
+toc: false
 ---
 
 The following BitTorrent Clients are on the What.CD whitelist:

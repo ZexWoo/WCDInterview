@@ -5,7 +5,7 @@ title: "转码"
 tags: []
 comments: false
 author: ZexWoo
-toc: true
+toc: false
 ---
 
 **转码（动词）**的意思是将文件从一种格式转换成另一种。**转码（名词）**可以指任何转码后的文件，但它通常含贬义，为了区分，我们会特别用「劣质转码」这个说法来指明。
