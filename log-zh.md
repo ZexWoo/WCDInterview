@@ -11,9 +11,9 @@ toc: true
 ```
 Exact Audio Copy V1.3 from 2. September 2016
 
-EAC extraction logfile from 4. January 2020, 20:38
+EAC extraction logfile from 11. December 2019, 19:24
 
-徐佳瑩 / 首張創作專輯
+Connie Talbot / Beautiful World
 
 Used drive  : ATAPI   CDRW 52X32   Adapter: 1  ID: 0
 
@@ -42,169 +42,201 @@ TOC of the extracted CD
 
      Track |   Start  |  Length  | Start sector | End sector 
     ---------------------------------------------------------
-        1  |  0:00.00 |  3:42.15 |         0    |    16664   
-        2  |  3:42.15 |  4:21.30 |     16665    |    36269   
-        3  |  8:03.45 |  3:35.31 |     36270    |    52425   
-        4  | 11:39.01 |  4:59.26 |     52426    |    74876   
-        5  | 16:38.27 |  3:29.48 |     74877    |    90599   
-        6  | 20:08.00 |  5:13.14 |     90600    |   114088   
-        7  | 25:21.14 |  4:00.29 |    114089    |   132117   
-        8  | 29:21.43 |  4:57.65 |    132118    |   154457   
-        9  | 34:19.33 |  3:06.36 |    154458    |   168443   
-       10  | 37:25.69 |  3:40.24 |    168444    |   184967   
-       11  | 41:06.18 |  3:07.31 |    184968    |   199023   
+        1  |  0:00.00 |  3:40.53 |         0    |    16552   
+        2  |  3:40.53 |  3:57.44 |     16553    |    34371   
+        3  |  7:38.22 |  3:36.50 |     34372    |    50621   
+        4  | 11:14.72 |  4:21.44 |     50622    |    70240   
+        5  | 15:36.41 |  3:05.30 |     70241    |    84145   
+        6  | 18:41.71 |  4:33.23 |     84146    |   104643   
+        7  | 23:15.19 |  3:57.29 |    104644    |   122447   
+        8  | 27:12.48 |  3:32.60 |    122448    |   138407   
+        9  | 30:45.33 |  3:24.03 |    138408    |   153710   
+       10  | 34:09.36 |  3:41.19 |    153711    |   170304   
+       11  | 37:50.55 |  4:09.18 |    170305    |   188997   
+       12  | 41:59.73 |  4:43.22 |    188998    |   210244   
+       13  | 46:43.20 |  3:59.06 |    210245    |   228175   
 
 
 Track  1
 
-     Filename E:\EAC\徐佳瑩 - 首張創作專輯 (2009) {3870522} [FLAC]\01. 喔伊細.wav
+     Filename E:\EAC\Connie Talbot - Beautiful World (2012) {EVSA244} [FLAC]\01. Count on Me.wav
 
      Pre-gap length  0:00:02.00
 
-     Peak level 100.0 %
-     Extraction speed 6.4 X
+     Peak level 98.8 %
+     Extraction speed 5.4 X
      Track quality 100.0 %
-     Test CRC 702809E3
-     Copy CRC 702809E3
-     Accurately ripped (confidence 3)  [C415E916]  (AR v2)
+     Test CRC 1BB6B01A
+     Copy CRC 1BB6B01A
+     Accurately ripped (confidence 11)  [BEC8CB90]  (AR v2)
      Copy OK
 
 Track  2
 
-     Filename E:\EAC\徐佳瑩 - 首張創作專輯 (2009) {3870522} [FLAC]\02. 圓舞曲.wav
+     Filename E:\EAC\Connie Talbot - Beautiful World (2012) {EVSA244} [FLAC]\02. Let It Be.wav
 
-     Peak level 100.0 %
-     Extraction speed 7.1 X
+     Pre-gap length  0:00:01.00
+
+     Peak level 96.1 %
+     Extraction speed 6.0 X
      Track quality 100.0 %
-     Test CRC DC00BADC
-     Copy CRC DC00BADC
-     Accurately ripped (confidence 3)  [E463831C]  (AR v2)
+     Test CRC CDD4C752
+     Copy CRC CDD4C752
+     Accurately ripped (confidence 11)  [9799BC2E]  (AR v2)
      Copy OK
 
 Track  3
 
-     Filename E:\EAC\徐佳瑩 - 首張創作專輯 (2009) {3870522} [FLAC]\03. VIP.wav
+     Filename E:\EAC\Connie Talbot - Beautiful World (2012) {EVSA244} [FLAC]\03. The Climb.wav
 
-     Pre-gap length  0:00:02.00
+     Pre-gap length  0:00:00.70
 
-     Peak level 100.0 %
-     Extraction speed 8.9 X
+     Peak level 96.8 %
+     Extraction speed 7.1 X
      Track quality 100.0 %
-     Test CRC 0021EF1F
-     Copy CRC 0021EF1F
-     Accurately ripped (confidence 3)  [1C4646F0]  (AR v2)
+     Test CRC 23878F35
+     Copy CRC 23878F35
+     Accurately ripped (confidence 11)  [12BA106E]  (AR v2)
      Copy OK
 
 Track  4
 
-     Filename E:\EAC\徐佳瑩 - 首張創作專輯 (2009) {3870522} [FLAC]\04. 失落沙洲.wav
+     Filename E:\EAC\Connie Talbot - Beautiful World (2012) {EVSA244} [FLAC]\04. What the World Needs Now.wav
 
-     Pre-gap length  0:00:02.00
+     Pre-gap length  0:00:01.37
 
-     Peak level 100.0 %
-     Extraction speed 8.0 X
-     Track quality 100.0 %
-     Test CRC FD64084B
-     Copy CRC FD64084B
-     Accurately ripped (confidence 3)  [84608750]  (AR v2)
+     Peak level 99.7 %
+     Extraction speed 6.3 X
+     Track quality 99.9 %
+     Test CRC FA2DC85E
+     Copy CRC FA2DC85E
+     Accurately ripped (confidence 11)  [4ECD8043]  (AR v2)
      Copy OK
 
 Track  5
 
-     Filename E:\EAC\徐佳瑩 - 首張創作專輯 (2009) {3870522} [FLAC]\05. 白旗.wav
+     Filename E:\EAC\Connie Talbot - Beautiful World (2012) {EVSA244} [FLAC]\05. Fireflies.wav
 
-     Pre-gap length  0:00:02.00
+     Pre-gap length  0:00:01.78
 
-     Peak level 100.0 %
-     Extraction speed 9.7 X
+     Peak level 97.0 %
+     Extraction speed 8.8 X
      Track quality 100.0 %
-     Test CRC C1AA113B
-     Copy CRC C1AA113B
-     Accurately ripped (confidence 3)  [9CA079EA]  (AR v2)
+     Test CRC CF718AA5
+     Copy CRC CF718AA5
+     Accurately ripped (confidence 11)  [70EE27E0]  (AR v2)
      Copy OK
 
 Track  6
 
-     Filename E:\EAC\徐佳瑩 - 首張創作專輯 (2009) {3870522} [FLAC]\06. 身騎白馬.wav
+     Filename E:\EAC\Connie Talbot - Beautiful World (2012) {EVSA244} [FLAC]\06. Beautiful World.wav
 
-     Pre-gap length  0:00:02.00
+     Pre-gap length  0:00:01.86
 
-     Peak level 100.0 %
-     Extraction speed 10.4 X
+     Peak level 96.7 %
+     Extraction speed 7.7 X
      Track quality 100.0 %
-     Test CRC 06130B19
-     Copy CRC 06130B19
-     Accurately ripped (confidence 3)  [D175E87B]  (AR v2)
+     Test CRC B80E3650
+     Copy CRC B80E3650
+     Accurately ripped (confidence 11)  [085AF6C0]  (AR v2)
      Copy OK
 
 Track  7
 
-     Filename E:\EAC\徐佳瑩 - 首張創作專輯 (2009) {3870522} [FLAC]\07. 一樣的月光.wav
+     Filename E:\EAC\Connie Talbot - Beautiful World (2012) {EVSA244} [FLAC]\07. Amazing Grace.wav
 
-     Pre-gap length  0:00:02.09
+     Pre-gap length  0:00:01.13
 
-     Peak level 100.0 %
-     Extraction speed 9.9 X
-     Track quality 100.0 %
-     Test CRC FCCA51FE
-     Copy CRC FCCA51FE
-     Accurately ripped (confidence 3)  [E1DCBFC5]  (AR v2)
+     Peak level 96.9 %
+     Extraction speed 7.5 X
+     Track quality 99.9 %
+     Test CRC 232CBA2B
+     Copy CRC 232CBA2B
+     Accurately ripped (confidence 11)  [84176DDA]  (AR v2)
      Copy OK
 
 Track  8
 
-     Filename E:\EAC\徐佳瑩 - 首張創作專輯 (2009) {3870522} [FLAC]\08. 明知故犯.wav
+     Filename E:\EAC\Connie Talbot - Beautiful World (2012) {EVSA244} [FLAC]\08. Pray.wav
 
-     Pre-gap length  0:00:03.00
+     Pre-gap length  0:00:00.82
 
-     Peak level 100.0 %
-     Extraction speed 10.2 X
-     Track quality 100.0 %
-     Test CRC C092074F
-     Copy CRC C092074F
-     Accurately ripped (confidence 3)  [631ADCA1]  (AR v2)
+     Peak level 98.0 %
+     Extraction speed 7.3 X
+     Track quality 99.9 %
+     Test CRC 4D2884DD
+     Copy CRC 4D2884DD
+     Accurately ripped (confidence 11)  [5186CE82]  (AR v2)
      Copy OK
 
 Track  9
 
-     Filename E:\EAC\徐佳瑩 - 首張創作專輯 (2009) {3870522} [FLAC]\09. 出口.wav
+     Filename E:\EAC\Connie Talbot - Beautiful World (2012) {EVSA244} [FLAC]\09. Gift of a Friend.wav
 
-     Pre-gap length  0:00:02.00
+     Pre-gap length  0:00:03.32
 
-     Peak level 100.0 %
-     Extraction speed 9.6 X
+     Peak level 96.7 %
+     Extraction speed 8.9 X
      Track quality 100.0 %
-     Test CRC ACF3A014
-     Copy CRC ACF3A014
-     Accurately ripped (confidence 3)  [C5E372A0]  (AR v2)
+     Test CRC BE765A16
+     Copy CRC BE765A16
+     Accurately ripped (confidence 11)  [ECDB4142]  (AR v2)
      Copy OK
 
 Track 10
 
-     Filename E:\EAC\徐佳瑩 - 首張創作專輯 (2009) {3870522} [FLAC]\10. 哼情歌.wav
+     Filename E:\EAC\Connie Talbot - Beautiful World (2012) {EVSA244} [FLAC]\10. Imagine.wav
 
-     Pre-gap length  0:00:02.00
+     Pre-gap length  0:00:02.50
 
-     Peak level 100.0 %
-     Extraction speed 10.1 X
+     Peak level 96.8 %
+     Extraction speed 9.1 X
      Track quality 100.0 %
-     Test CRC EC69077F
-     Copy CRC EC69077F
-     Accurately ripped (confidence 3)  [6537096E]  (AR v2)
+     Test CRC 05C004E7
+     Copy CRC 05C004E7
+     Accurately ripped (confidence 11)  [AC4BCDF5]  (AR v2)
      Copy OK
 
 Track 11
 
-     Filename E:\EAC\徐佳瑩 - 首張創作專輯 (2009) {3870522} [FLAC]\11. 沒鎖門.wav
+     Filename E:\EAC\Connie Talbot - Beautiful World (2012) {EVSA244} [FLAC]\11. Colours of the Wind.wav
 
-     Pre-gap length  0:00:03.00
+     Pre-gap length  0:00:02.26
 
      Peak level 100.0 %
-     Extraction speed 10.5 X
+     Extraction speed 9.5 X
      Track quality 100.0 %
-     Test CRC D56CC6E5
-     Copy CRC D56CC6E5
-     Accurately ripped (confidence 3)  [22569CBC]  (AR v2)
+     Test CRC 70A7C424
+     Copy CRC 70A7C424
+     Accurately ripped (confidence 11)  [E4EE215B]  (AR v2)
+     Copy OK
+
+Track 12
+
+     Filename E:\EAC\Connie Talbot - Beautiful World (2012) {EVSA244} [FLAC]\12. Heal the World.wav
+
+     Pre-gap length  0:00:02.52
+
+     Peak level 100.0 %
+     Extraction speed 9.9 X
+     Track quality 100.0 %
+     Test CRC 73968407
+     Copy CRC 73968407
+     Accurately ripped (confidence 11)  [E2E599E6]  (AR v2)
+     Copy OK
+
+Track 13
+
+     Filename E:\EAC\Connie Talbot - Beautiful World (2012) {EVSA244} [FLAC]\13. Hero.wav
+
+     Pre-gap length  0:00:02.57
+
+     Peak level 98.8 %
+     Extraction speed 10.9 X
+     Track quality 100.0 %
+     Test CRC 98149D67
+     Copy CRC 98149D67
+     Accurately ripped (confidence 11)  [C63A7E2A]  (AR v2)
      Copy OK
 
 
@@ -216,23 +248,25 @@ End of status report
 
 ---- CUETools DB Plugin V2.1.6
 
-[CTDB TOCID: CKFnybL1zb56V56HqtuC_6wh.Cg-] found
-Submit result: CKFnybL1zb56V56HqtuC_6wh.Cg- has been confirmed
+[CTDB TOCID: Ub0GoeIlImVqliCbFX8DyQl4wk8-] found
+Submit result: Ub0GoeIlImVqliCbFX8DyQl4wk8- has been confirmed
 Track | CTDB Status
-  1   | (127/128) Accurately ripped
-  2   | (127/128) Accurately ripped
-  3   | (127/128) Accurately ripped
-  4   | (127/128) Accurately ripped
-  5   | (127/128) Accurately ripped
-  6   | (127/128) Accurately ripped
-  7   | (127/128) Accurately ripped
-  8   | (127/128) Accurately ripped
-  9   | (126/128) Accurately ripped
- 10   | (126/128) Accurately ripped
- 11   | (124/128) Accurately ripped
+  1   | (36/37) Accurately ripped
+  2   | (36/37) Accurately ripped
+  3   | (36/37) Accurately ripped
+  4   | (36/37) Accurately ripped
+  5   | (36/37) Accurately ripped
+  6   | (36/37) Accurately ripped
+  7   | (36/37) Accurately ripped
+  8   | (36/37) Accurately ripped
+  9   | (36/37) Accurately ripped
+ 10   | (35/37) Accurately ripped
+ 11   | (36/37) Accurately ripped
+ 12   | (36/37) Accurately ripped
+ 13   | (36/37) Accurately ripped
 
 
-==== Log checksum 4DB714F050495CFA082089EBDE95F9D74A0720C9580AF8D35639A3BFCE55830C ====
+==== Log checksum 378A4220089187148B04E1E8C06408FB54C43C5A79338444305B99988A98CDEF ====
 ```
 
 更多关于 Log 的知识请见 [抓轨日志详解](https://zexwoo.github.io/ripping_log_file/)。
