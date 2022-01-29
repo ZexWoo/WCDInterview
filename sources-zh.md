@@ -5,7 +5,7 @@ title: "模拟源与数字源"
 tags: []
 comments: false
 author: ZexWoo
-toc: false
+toc: true
 ---
 
 发布到 What.CD 的资源来源有二：模拟媒介和数字媒介。

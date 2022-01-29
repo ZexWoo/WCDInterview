@@ -5,7 +5,7 @@ title: "Welcome!"
 tags: []
 comments: false
 author: 
-toc: false
+toc: true
 ---
 
 Hello, and welcome to the What.CD Interview Preparation website! This site was written as a guide for potential users to learn about music formats, transcodes, torrenting, and burning and ripping — everything you need to know in order to pass the What.CD interview.

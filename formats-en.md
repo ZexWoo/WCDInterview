@@ -5,7 +5,7 @@ title: "Audio Formats"
 tags: []
 comments: false
 author: ZexWoo
-toc: false
+toc: true
 ---
 
 An **audio format** is a type of computer file that stores music. Music formats are either uncompressed lossless, compressed lossless, or lossy.

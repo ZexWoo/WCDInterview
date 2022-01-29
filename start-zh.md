@@ -5,7 +5,7 @@ title: "开始面试"
 tags: []
 comments: false
 author: ZexWoo
-toc: false
+toc: true
 ---
 
 ## 获取一个 IRC 客户端

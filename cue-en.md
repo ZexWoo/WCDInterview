@@ -5,7 +5,7 @@ title: "Sample Cue File"
 tags: []
 comments: false
 author: ZexWoo
-toc: false
+toc: true
 ---
 
 ```

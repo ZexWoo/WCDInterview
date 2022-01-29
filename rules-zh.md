@@ -5,7 +5,7 @@ title: "What.CD 规则"
 tags: []
 comments: false
 author: ZexWoo
-toc: false
+toc: true
 ---
 
 ## 总则

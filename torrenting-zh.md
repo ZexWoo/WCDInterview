@@ -5,7 +5,7 @@ title: "种子相关"
 tags: []
 comments: false
 author: ZexWoo
-toc: false
+toc: true
 ---
 
 ## BitTorrent

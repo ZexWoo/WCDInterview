@@ -5,7 +5,7 @@ title: "Starting the Interview"
 tags: []
 comments: false
 author: ZexWoo
-toc: false
+toc: true
 ---
 
 ## GETTING AN IRC CLIENT

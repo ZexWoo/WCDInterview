@@ -5,7 +5,7 @@ title: "Spectral Analysis"
 tags: []
 comments: false
 author: ZexWoo
-toc: false
+toc: true
 ---
 
 **Spectral analysis** is a visual way to display the data in a music file. Every music note has a specific **frequency**: lower notes have lower frequencies and higher notes have higher frequencies. All of the frequencies are displayed on a **spectral diagram** (“**spectral**” for short), which is a graph of all the frequencies vs. time in a music file. Frequencies are measured in hertz (Hz) and kilohertz (1,000 Hz). Humans have a hearing range from about 20 Hz ~ 20 kHz (20,000 Hz).

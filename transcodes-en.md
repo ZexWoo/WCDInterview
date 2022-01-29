@@ -5,7 +5,7 @@ title: "Transcodes"
 tags: []
 comments: false
 author: ZexWoo
-toc: false
+toc: true
 ---
 
 **Transcoding (verb)** a file means converting from one format to another. A **transcode (noun)** can mean any converted file, but is usually used in a negative context (as in a bad transcode).

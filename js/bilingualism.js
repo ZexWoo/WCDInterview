@@ -167,6 +167,7 @@ window.onload = function(){
             replace("BitTorrent Client Whitelist", "BitTorrent 客户端白名单");
             replace("Follow Us on Twitter!", "在推特上关注我们！");
             replace("Follow <a href=\"https://twitter.com/whatcd\"><strong>@whatcd</strong></a> on Twitter", "在推特上关注 <a href=\"https://twitter.com/whatcd\">@whatcd</a>");
+            replace("ToC", "目录");
         };
     };
 
@@ -218,6 +219,7 @@ window.onload = function(){
             replace("BitTorrent 客户端白名单", "BitTorrent Client Whitelist");
             replace("在推特上关注我们！", "Follow Us on Twitter!");
             replace("在推特上关注 <a href=\"https://twitter.com/whatcd\">@whatcd</a>", "Follow <a href=\"https://twitter.com/whatcd\"><strong>@whatcd</strong></a> on Twitter");
+            replace("目录", "ToC");
         }
     };
 

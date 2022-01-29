@@ -5,7 +5,7 @@ title: "CD 抓轨与刻录"
 tags: []
 comments: false
 author: ZexWoo
-toc: false
+toc: true
 ---
 
 **CD 抓轨**是一种提取 CD 中的音频文件的方式。**CD 刻录**是一种用音频文件制作 CD 的方式。

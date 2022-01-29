@@ -5,7 +5,7 @@ title: "Analog and Digital Music Sources"
 tags: []
 comments: false
 author: ZexWoo
-toc: false
+toc: true
 ---
 
 Music uploaded to What.CD comes from two main sources: analog media and digital media.

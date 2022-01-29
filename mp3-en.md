@@ -5,7 +5,7 @@ title: "MP3"
 tags: []
 comments: false
 author: ZexWoo
-toc: false
+toc: true
 ---
 
 ## LAME

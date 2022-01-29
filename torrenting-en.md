@@ -5,7 +5,7 @@ title: "Torrenting"
 tags: []
 comments: false
 author: ZexWoo
-toc: false
+toc: true
 ---
 
 ## BITTORRENT

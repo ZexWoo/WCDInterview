@@ -5,7 +5,7 @@ title: "After the Interview"
 tags: []
 comments: false
 author: ZexWoo
-toc: false
+toc: true
 ---
 
 ***POSTING THE CONTENTS OF THIS INTERVIEW ANYWHERE OR SHOWING IT TO ANYONE WILL COST YOU YOUR ACCOUNT OR FUTURE INTERVIEWS!***

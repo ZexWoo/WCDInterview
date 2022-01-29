@@ -5,7 +5,7 @@ title: "What.CD Rules"
 tags: []
 comments: false
 author: ZexWoo
-toc: false
+toc: true
 ---
 
 ## GOLDEN RULES

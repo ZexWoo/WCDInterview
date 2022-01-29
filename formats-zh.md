@@ -5,7 +5,7 @@ title: "音频格式"
 tags: []
 comments: false
 author: ZexWoo
-toc: false
+toc: true
 ---
 
 **音频格式**就是一类能够存储音乐的电脑文件。它分为无压缩、无损压缩、有损压缩三类。

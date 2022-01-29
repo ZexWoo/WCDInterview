@@ -5,7 +5,7 @@ title: "Sample Log File"
 tags: []
 comments: false
 author: ZexWoo
-toc: false
+toc: true
 ---
 
 ```

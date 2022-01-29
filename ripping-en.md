@@ -5,7 +5,7 @@ title: "CD Burning and CD Ripping"
 tags: []
 comments: false
 author: ZexWoo
-toc: false
+toc: true
 ---
 
 **CD ripping** is a way to extract the music files from a CD. **CD burning** is a way to make a CD from music files.

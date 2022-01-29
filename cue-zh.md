@@ -5,7 +5,7 @@ title: "示例 Cue 文件"
 tags: []
 comments: false
 author: ZexWoo
-toc: false
+toc: true
 ---
 
 ```
