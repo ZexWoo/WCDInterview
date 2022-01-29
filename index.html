@@ -1,75 +1,31 @@
 ---
 layout: default
 ---
-<!-- <div class="search-container">
-  <input type="text" id="search-input" placeholder="搜索文章">
-  <ul id="results-container"></ul>
-</div> -->
-
-<!--script src="https://unpkg.com/simple-jekyll-search/dest/simple-jekyll-search.min.js"></script-->
-<!-- <script src="{{ site.baseurl }}/js/simple-jekyll-search.min.js"></script>
-
-<script>
-	window.simpleJekyllSearch = new SimpleJekyllSearch({
-	searchInput: document.getElementById('search-input'),
-	resultsContainer: document.getElementById('results-container'),
-	json: '{{ site.baseurl }}/search.json',
-	searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
-	noResultsText: '<span class="keys">No results found</span>',
-	limit: 10,
-	fuzzy: false,
-	exclude: ['Welcome']
-  })
-</script>
-
-{% if site.posts.size == 0 %}
-  <h2><span class="keys">空空如也</span></h2>
-{% endif %} -->
 
 <div class="posts">
   <h1>欢迎！</h1>
 
   <div class="entry">
-  <p>你好，欢迎来到 What.CD 文字面试的准备页！本站为想要通过 What.CD 面试的潜在用户提供指导，方便他们学习关于音频格式、转码、做种、刻录和翻录的相关知识。</p>
-  
-  <h2>What.CD 是什么？</h2>
-  
-  <p>What.CD 建立于 2007 年 10 月 27 日，是一家拥有大量音乐、漫画、软件、有声书和电子书资源的 PT 站点。得益于极快的下载速度、活跃的做种情况、丰富的音乐资源及多种格式，What.CD 已成为广大爱好者向往的圣地。</p>
-  
-  <h2>你做好加入 What.CD 的准备了吗？</h2>
-  
-  <p>What.CD 采用邀请制。如果你不认识现有成员，那么你可以通过 What.CD 的面试来获得入站邀请。通过向能通过面试的人们发放邀请，我们希望能吸纳活跃社区、爱好音乐，以及乐意分享自己收藏的新成员。</p>
-  
-  <p><i>注意：如果你之前已经拥有 What.CD 的账号，请前往 #what.cd-disabled 并遵循频道公告的指导，以求与管理员沟通并重启账号。<strong>严禁钻面试的空子，否则永封。</strong></i></p>
+    <p>你好，欢迎来到 What.CD 文字面试的准备页！本站为想要通过 What.CD 面试的潜在用户提供指导，方便他们学习关于音频格式、转码、做种、刻录和翻录的相关知识。</p>
 
-  <small>本站翻译自 What.CD 面试准备页的备份，翻译由 <a href="https://zexwoo.github.io" target="_blank">我</a> 独立完成。欲访问原始网页，请点 <a href="https://opentrackers.org/whatinterviewprep.com/index.html" target="_blank">这里</a>。<br/>另外，出于方便学习的目的，我为部分概念增添了超链接，用于深入了解，但这些深入的知识并非面试考察的范围。<br/>What.CD 已于 2016 年 11 月 17 日关站，本站所有内容仅供了解和学习，文中所提及的面试现已不复存在。欲进一步了解 What.CD，可参阅 <a href="https://zhuanlan.zhihu.com/p/31369213" target="_blank">本文</a>。</small>
+    <h2>What.CD 是什么？</h2>
+
+    <p>What.CD 建立于 2007 年 10 月 27 日，是一家拥有大量音乐、漫画、软件、有声书和电子书资源的 PT 站点。得益于极快的下载速度、活跃的做种情况、丰富的音乐资源及多种格式，What.CD
+      已成为广大爱好者向往的圣地。</p>
+
+    <h2>你做好加入 What.CD 的准备了吗？</h2>
+
+    <p>What.CD 采用邀请制。如果你不认识现有成员，那么你可以通过 What.CD 的面试来获得入站邀请。通过向能通过面试的人们发放邀请，我们希望能吸纳活跃社区、爱好音乐，以及乐意分享自己收藏的新成员。</p>
+
+    <p><i>注意：如果你之前已经拥有 What.CD 的账号，请前往 #what.cd-disabled 并遵循频道公告的指导，以求与管理员沟通并重启账号。<strong>严禁钻面试的空子，否则永封。</strong></i>
+    </p>
+
+    <br />
+
+    <small>本站翻译自 What.CD 面试准备页的备份，翻译由 <a href="https://zexwoo.github.io" target="_blank">我</a> 独立完成。欲访问原始网页，请点 <a
+        href="https://opentrackers.org/whatinterviewprep.com/index.html"
+        target="_blank">这里</a>。<br />另外，出于方便学习的目的，我为部分概念增添了超链接，用于深入了解，但这些深入的知识并非面试考察的范围。<br />What.CD 已于 2016 年 11 月 17
+      日关站，本站所有内容仅供了解和学习，文中所提及的面试现已不复存在。欲进一步了解 What.CD，可参阅 <a href="https://zhuanlan.zhihu.com/p/31369213"
+        target="_blank">本文</a>。</small>
+  </div>
 </div>
-</div>
-
-<!-- <div class="pagination">
-  {% if paginator.previous_page %}
-    <span class="prev">
-      <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}">← <span class="keys">上一页</span></a>
-    </span>
-  {% endif %}
-  {% if paginator.next_page %}
-    <span class="next">
-      <a href="{{ site.baseurl}}{{ paginator.next_page_path }}"><span class="keys">下一页</span> →</a>
-    </span>
-  {% endif %}
-</div> -->
-
-<!--不算子网站访客统计-->
-<!-- <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
-</script> -->
-<!-- pv的方式，单个用户连续点击n篇文章，记录n次访问量 -->
-<!-- <div align="center">
-	<span id="busuanzi_container_site_pv" style="font-family:Consolas;color:Silver;font-size:12px;">
-		<span class="keys">访问数</span>:
-    <span id="busuanzi_value_site_pv" style="font-family:Consolas;color:Silver;font-size:12px;"></span>
-	</span>&nbsp;&nbsp;&nbsp;
-	<span id="busuanzi_container_site_uv" style="font-family:Consolas;color:Silver;font-size:12px;">
-		<span class="keys">用户数</span>:
-    <span id="busuanzi_value_site_uv" style="font-family:Consolas;color:Silver;font-size:12px;"></span>
-	</span>
-</div> -->
