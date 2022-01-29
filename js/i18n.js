@@ -25,10 +25,6 @@ var isEnPost = /\b-en\/$/;
 //用于在不同语言网页标题间切换的正则
 var isZhBlogName = /文字面试教材/;
 var isEnBlogName = /WCD Interview/;
-var isZhTypes = /^分类 –/;
-var isEnTypes = /^Types –/;
-var isZhTags = /^标签 –/;
-var isEnTags = /^Tags –/;
 
 //页面 HTML 整体加载完毕后再执行下列代码
 window.onload = function(){
