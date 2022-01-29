@@ -24,10 +24,8 @@ $georgia: Georgia, serif;
 // font-family: "LXGW WenKai";
 // src: url("../fonts/LXGWWenKaiScreen.ttf");
 // }
-@font-face{// 引入 Cascadia Code
-font-family: "Cascadia Code";
-src: url("../fonts/CascadiaCode-Regular.ttf");
-}
+@import url('http://fonts.cdnfonts.com/css/cascadia-code');// 引入 Cascadia Code
+
 // $base-font: "Noto Serif", "PT Serif", source-han-serif-sc, "Source Han Serif SC", "Source Han Serif CN", "Source Han Serif TC", "Source Han Serif TW", "Source Han Serif","Songti SC", SimSon, serif; // 初始字体方案
 $base-font: 'Segoe UI',SegoeUI,'Microsoft YaHei',微软雅黑,"Helvetica Neue",Helvetica,Arial,sans-serif; // 微软方案
 $code-font: "Cascadia Code", "Microsoft YaHei", "Menlo", "Courier New", "Monaco", "Spoqa Han Sans", monospace;
